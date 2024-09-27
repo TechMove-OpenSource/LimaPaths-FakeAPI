@@ -21,16 +21,6 @@
       "bus_company":""
     },
     {
-      "id":3,
-      "type":"conductor",
-      "name":"Pedro",
-      "lastname":"Sanchez",
-      "username":"pedros3",
-      "email":"pedro.sanchez3@example.com",
-      "password":"12345",
-      "bus_company":"Transporte Ejemplo 2"
-    },
-    {
       "id":4,
       "type":"pasajero",
       "name":"Laura",
