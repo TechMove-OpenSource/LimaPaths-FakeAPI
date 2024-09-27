@@ -247,41 +247,6 @@
       "title": "2x1 en pasajes",
       "valid_date":"xx/xx/xx",
       "benefit": "Viaja 2 personas y paga 1"
-    },
-    {
-      "id": 7,
-      "img_url":"https://peruretail.sfo3.cdn.digitaloceanspaces.com/wp-content/uploads/pizza-3.jpg",
-      "title": "3 pizzas familiares",
-      "valid_date":"xx/xx/xx",
-      "benefit": "Americana + gaseosa + pizza rolls"
-    },
-    {
-      "id": 8,
-      "img_url":"https://peru21.pe/resizer/bodZRggxNDfCz6upbEVfpsLqUbk=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/WKLKU6YQTJEZJLSWM3CUZZ37AA.jpg",
-      "title": "3 pizzas familiares",
-      "valid_date":"xx/xx/xx",
-      "benefit": "1 pollo + porción de papas + ensalada + gaseosa de 3lts"
-    },
-    {
-      "id": 9,
-      "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2017_Lima_-_Autob%C3%BAs_en_la_avenida_Alfonso_Ugarte_cerca_del_plaza_Dos_de_Mayo.jpg/1280px-2017_Lima_-_Autob%C3%BAs_en_la_avenida_Alfonso_Ugarte_cerca_del_plaza_Dos_de_Mayo.jpg",
-      "title": "2x1 en pasajes",
-      "valid_date":"xx/xx/xx",
-      "benefit": "Viaja 2 personas y paga 1"
-    },
-    {
-      "id": 10,
-      "img_url":"https://peruretail.sfo3.cdn.digitaloceanspaces.com/wp-content/uploads/pizza-3.jpg",
-      "title": "3 pizzas familiares",
-      "valid_date":"xx/xx/xx",
-      "benefit": "Americana + gaseosa + pizza rolls"
-    },
-    {
-      "id": 11,
-      "img_url":"https://peru21.pe/resizer/bodZRggxNDfCz6upbEVfpsLqUbk=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/WKLKU6YQTJEZJLSWM3CUZZ37AA.jpg",
-      "title": "3 pizzas familiares",
-      "valid_date":"xx/xx/xx",
-      "benefit": "1 pollo + porción de papas + ensalada + gaseosa de 3lts"
     }
   ],
   "trips":[
