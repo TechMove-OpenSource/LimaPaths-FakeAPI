@@ -81,18 +81,6 @@
           "stop_name": "angamos1",
           "latitude":"-12.045923",
           "longitude":"-77.030312"
-        },
-        {
-          "id":4,
-          "stop_name": "aviacion1",
-          "latitude":"-12.046375",
-          "longitude":"-77.042183"
-        },
-        {
-          "id":5,
-          "stop_name": "primavera1",
-          "latitude":"-12.043939",
-          "longitude":"-77.030516"
         }
       ]
     },
@@ -117,18 +105,6 @@
           "stop_name": "angamos2",
           "latitude":"-12.045923",
           "longitude":"-77.030312"
-        },
-        {
-          "id":4,
-          "stop_name": "aviacion2",
-          "latitude":"-12.046375",
-          "longitude":"-77.042183"
-        },
-        {
-          "id":5,
-          "stop_name": "primavera2",
-          "latitude":"-12.043939",
-          "longitude":"-77.030516"
         }
       ]
     },
@@ -153,18 +129,6 @@
           "stop_name": "angamos3",
           "latitude":"-12.045923",
           "longitude":"-77.030312"
-        },
-        {
-          "id":4,
-          "stop_name": "aviacion3",
-          "latitude":"-12.046375",
-          "longitude":"-77.042183"
-        },
-        {
-          "id":5,
-          "stop_name": "primavera3",
-          "latitude":"-12.043939",
-          "longitude":"-77.030516"
         }
       ]
     },
