@@ -85,54 +85,6 @@
       ]
     },
     {
-      "id":2,
-      "bus_name":"Bus 002",
-      "bus_stops":[
-        {
-          "id":1,
-          "stop_name": "monte2",
-          "latitude":"-12.043333",
-          "longitude":"-77.028333"
-        },
-        {
-          "id":2,
-          "stop_name": "larco2",
-          "latitude":"-12.046373",
-          "longitude":"-77.042754"
-        },
-        {
-          "id":3,
-          "stop_name": "angamos2",
-          "latitude":"-12.045923",
-          "longitude":"-77.030312"
-        }
-      ]
-    },
-    {
-      "id":3,
-      "bus_name":"Bus 003",
-      "bus_stops":[
-        {
-          "id":1,
-          "stop_name": "monte3",
-          "latitude":"-12.043333",
-          "longitude":"-77.028333"
-        },
-        {
-          "id":2,
-          "stop_name": "larco3",
-          "latitude":"-12.046373",
-          "longitude":"-77.042754"
-        },
-        {
-          "id":3,
-          "stop_name": "angamos3",
-          "latitude":"-12.045923",
-          "longitude":"-77.030312"
-        }
-      ]
-    },
-    {
       "id":4,
       "bus_name":"Bus 004",
       "bus_stops":[
